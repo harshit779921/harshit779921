@@ -1,5 +1,7 @@
+#👋 Hi, I'm Harshit Pandey
+
 # 💫 About Me:
-👋 Hi, I'm Harshit Pandey<br>🎓 B.Tech CSE student specializing in AI & ML<br>💼 Currently working on: Building Tech Skills<br>🌱 I'm currently learning Big Data Technologies
+🎓 B.Tech CSE student specializing in AI & ML<br>💼 Currently working on: Building Tech Skills<br>🌱 I'm currently learning Big Data Technologies
 
 
 ## 🌐 Socials:
