@@ -19,22 +19,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitpandey7799) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitpandey072003@gmail.com) 
 
-<h3 align="left">Languages, Tools and Frameworks:</h3>
-<div align="center">
-  <div style="display: flex; align-items: flex-start; gap: 10px;">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
-    <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="60" height="60" />
-    <img src="https://cdn.simpleicons.org/apachespark/FDEE21" alt="Apache Spark" width="60" height="60" />
-    <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Apache Airflow" width="60" height="60" />
-    <img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" width="60" height="60" />
-    <img src="https://cdn.simpleicons.org/postgresql/316192" alt="PostgreSQL" width="60" height="60" />
-    <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="60" height="60" />
-    <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="60" height="60" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
-  </div>
-</div>
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshit779921&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
