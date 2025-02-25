@@ -9,7 +9,7 @@
 <p>&nbsp;</p>
 
 <p>
-  <img align="right" alt="coding" width="160" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+  <img align="right" alt="coding" width="155" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit779921&label=Visitors&color=5cc0ff&style=plastic" alt="Harshit Pandey" /> </p>
 
