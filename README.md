@@ -54,19 +54,11 @@
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshit779921&theme=dark)
 
-### 📈 Contribution Graph (Stable Fallback)
-![Contributions](https://ghchart.rshah.org/harshit779921)
-
 ---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshit779921&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=harshit779921&icon=0&color=0)
-
----
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
